@@ -1,0 +1,1 @@
+# Temporal-Trade-Off-Analysis-of-sEMG-Based-Hand-Gesture-Recognition-from-a-Decision-Delay-Perspective
